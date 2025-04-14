@@ -14,5 +14,3 @@ Based on your resume, here are suggestions for improving your GitHub profile:  <
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nairutyaiitp&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
